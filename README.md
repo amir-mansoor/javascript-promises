@@ -15,4 +15,4 @@ what is promise and how to use it
 
 <p>Promises have two main methods that allow you to handle their eventual outcome: then() and catch(). The then() method is called when a Promise is fulfilled and allows you to handle the resolved value, while the catch() method is called when a Promise is rejected and allows you to handle any errors that may have occurred.</p>
 
-<p>We then use the <strong>then()</strong> method to handle the resolved value and log it to the console. We also use the catch() method to handle any errors that may have occurred and log the error message to the console.</p>
+<p>We then use the <b>then()</b> method to handle the resolved value and log it to the console. We also use the catch() method to handle any errors that may have occurred and log the error message to the console.</p>
